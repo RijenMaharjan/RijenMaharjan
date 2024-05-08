@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rijen Maharjan</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1 align="left">About me:</h1>
+<h3 align="justify">👋 Hi there! I'm Rijen Maharjan from Nepal. 🏔️ I love building solid and creative solutions in web development. 💻 Whether it's crafting beautiful interfaces or scaling backend systems, I'm always chasing excellence.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rijenmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="rijenmaharjan" /> </p>
-
-- 🌱 I’m currently learning **Javascript**
+<h3 align="left"> Current status </h3>  
+ 🌱 I’m currently learning **Javascript**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
@@ -19,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rijenmaharjan&show_icons=true&locale=en" alt="rijenmaharjan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijenmaharjan&" alt="rijenmaharjan" /></p>
+<hr/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rijenmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="rijenmaharjan" /> </p>
