@@ -2,7 +2,7 @@
 <h3 align="justify">👋 Hi there! I'm Rijen Maharjan from Nepal. 🏔️ I love building solid and creative solutions in web development. 💻 Whether it's crafting beautiful interfaces or scaling backend systems, I'm always chasing excellence.</h3>
 
 <h3 align="left"> Current status </h3>  
- 🌱 I’m currently learning **Javascript**
+ <h5>🌱 I’m currently learning **Javascript**</h5>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
