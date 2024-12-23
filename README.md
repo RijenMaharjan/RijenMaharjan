@@ -3,6 +3,7 @@
 
 <h3 align="left"> Current status </h3>  
  <h4>🌱 I’m currently learning **Javascript**</h4>
+ <h4>🌱 I’m currently doing intern in Phyegan pvt ltd as Laravel developer**</h4>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
