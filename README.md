@@ -1,9 +1,20 @@
-<h1 align="left">About me:</h1>
-<h3 align="justify">👋 Hi there! I'm Rijen Maharjan from Nepal. 🏔️ I love building solid and creative solutions in web development. 💻 Whether it's crafting beautiful interfaces or scaling backend systems, I'm always chasing excellence.</h3>
+# Hi there, I'm Rijen Maharjan 👋 
 
-<h3 align="left"> Current status </h3>  
- <h4>🌱 I’m currently learning **Javascript**</h4>
- <h4>🌱 I’m currently doing intern in Phyegan pvt ltd as Laravel developer**</h4>
+🚀 Web Developer | Laravel | Playwright | BIM Student
+
+🌱 I’m currently learning **advanced Laravel & web testing**  
+💬 Ask me about **PHP, Laravel, Playwright, and web development**  
+📫 Reach me at: rijenmhrzn94@gmail.com  
+
+📌 **Pinned Projects:**  
+🔹 [E-commerce Laravel Project](https://github.com/RijenMaharjan/ecommerce)  
+🔹 [Playwright Automation Tests](https://github.com/RijenMaharjan/QA-test)  
+🔹 [JavaScript Pig Game](https://github.com/RijenMaharjan/The-Pig-Game)
+
+### 🛠 Tech Stack  
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
 <h3 align="left">Socials:</h3>
 <p align="left">
@@ -21,3 +32,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijenmaharjan&" alt="rijenmaharjan" /></p>
 <hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijenmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="rijenmaharjan" /> </p>
+
+ ⭐ **Follow me for more projects!**  
+
+  
+
+
+
+
+
+
+
+
