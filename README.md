@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijenmaharjan&" alt="rijenmaharjan" /></p>
 <hr/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rijenmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="rijenmaharjan" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijenmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="rijenmaharjan" /> </p> -->
 
  ⭐ **Follow me for more projects!**  
 
