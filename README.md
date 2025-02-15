@@ -26,7 +26,7 @@
 <hr/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijenmaharjan&label=Profile%20views&color=0e75b6&style=flat" alt="rijenmaharjan" /> </p> -->
 
- ⭐ **Follow me for more projects!**  
+ ⭐ **Follow me for more projects!** ⭐
 
   
 
