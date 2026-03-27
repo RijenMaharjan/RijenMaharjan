@@ -5,7 +5,7 @@
 🌱 I’m currently learning **NodeJs with Express and Nest & web testing**
 
 💬 Ask me about **PHP, Laravel, ExpressJS, and web development**  
-📫 Reach me at: rijenmhrzn94@gmail.com  |  <a href="https://rijenmaharjan.com.np"> | <a href="https://linkedin.com/in/rijen-maharjan-936899275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rijen-maharjan-936899275" height="20" width="20" /></a> |  <a href="https://instagram.com/rijen_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rijen_02" height="20" width="20" /></a>
+📫 Reach me at: rijenmhrzn94@gmail.com  |  <a href="https://rijenmaharjan.com.np">Rijen Maharjan- Website</a> | <a href="https://linkedin.com/in/rijen-maharjan-936899275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rijen-maharjan-936899275" height="20" width="20" /></a> |  <a href="https://instagram.com/rijen_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rijen_02" height="20" width="20" /></a>
 
 📌 **Pinned Projects:**  
 🔹 [E-commerce Laravel Project](https://github.com/RijenMaharjan/hotelbooking) <br/>
